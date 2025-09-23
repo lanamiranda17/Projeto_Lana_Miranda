@@ -12,8 +12,4 @@ public class D {
     public void MD2(int dado) {
         System.out.println("O dado recebido é: " + dado);
     }
-
-    public void MD4() {
-        System.out.println("MD4()");
-    }
 }
